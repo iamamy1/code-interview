@@ -1,7 +1,7 @@
 # 最小JSON解析
 
 ## 题目
-用Java语言写一个解析Json的类 (参考：MiniJSON.java)，要求实现以下功能：  
+用Java语言写一个解析Json的类 (参考：[MiniJSON.java](https://github.com/aborn/code-interview/blob/main/interview/MiniJSON.java))，要求实现以下功能：  
 1. 将json字符串解析成Json对象；  
 2. 将Json对象通过toJSONString()方法转成json字段串;
 
