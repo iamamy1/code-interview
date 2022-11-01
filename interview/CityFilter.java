@@ -22,6 +22,7 @@ public class CityFilter {
         /**
          * 实现要求：最小内存使用和CPU计算
          */
+        
         char first = citys.charAt(0);
         if(first == '&'){
             return city <= 10000 ? true : false;
